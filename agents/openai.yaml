@@ -1,0 +1,4 @@
+interface:
+  display_name: "提示词需求表"
+  short_description: "先填写六项需求表，再将你的目标、约束和偏好整理成可直接使用的提示词"
+  default_prompt: "使用 $prompt-intake，先给我六项需求填写表，等我填写后再生成符合我期待的提示词。"
